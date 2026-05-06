@@ -1,3 +1,3 @@
-console.log(Process.arch);
-console.log(Process.version);
-console.log(Process.platform);
+console.log(process.arch);
+console.log(process.version);
+console.log(process.platform);
