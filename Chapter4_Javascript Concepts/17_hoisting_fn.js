@@ -6,8 +6,8 @@ function getUserStatus() { // JS Engine
     var status_code = "Active";
     console.log(status_code);
 }
-
 getUserStatus();
+
 
 
 
