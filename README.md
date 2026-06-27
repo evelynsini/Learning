@@ -24,7 +24,15 @@ A structured collection of JavaScript exercises and concepts — from basics to 
 | **Chapter 16** | Callbacks | Callback functions, sync/async callbacks, callback hell |
 | **Chapter 17** | Promises | Promise states, chaining, error handling, Promise.all |
 | **Chapter 18** | Async/Await | async/await syntax, error handling, parallel execution |
-| **Chapter 19** | Playwright Basics | Browser automation setup, basic navigation |
+| **Chapter 19** | Playwright Basics | Browser automation setup, config, tests |
+| **Chapter 20** | Export & Import | ES modules, named/default exports, aliases |
+| **Chapter 21** | Classes & Objects | Class syntax, constructor, methods, static members |
+| **Chapter 22** | Encapsulation | Private `#` fields, getters, setters, data hiding |
+| **Chapter 23** | Inheritance | `extends`, `super()`, method overriding, POM pattern |
+| **Chapter 24** | Polymorphism | Method overriding, runtime polymorphism |
+| **Chapter 25** | OOP Interview Ques | Bug class, default params, `this`, method chaining |
+| **Chapter 26** | TypeScript | TS basics, types, compilation, hello world |
+| **Chapter 27** | TypeScript Interface | Interfaces, readonly, type contracts |
 
 ## 🛠️ Languages
 
@@ -65,5 +73,13 @@ Learning/
 ├── Chapter16_Callback/
 ├── Chapter17_Promises/
 ├── Chapter18_Async_Await/
-└── Chapter19_Playwright_basics/
+├── Chapter19_Playwright_basics/
+├── Chapter20_Export_Import/
+├── Chapter21_Classes_and_Objects/
+├── Chapter22_Encapsulation/
+├── Chapter23_Inheritance/
+├── Chapter24_Polymorphism/
+├── Chapter25_OOP_Interview_Ques/
+├── Chapter26_Typescript/
+└── Chapter27_TypeScript_Interface/
 ```
